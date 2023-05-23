@@ -34,14 +34,14 @@
   </aside>
 
   <section class="content">
-    <img height="200" width="200" src="/purus-profile/puru.webp" alt="Puru Vijay Profile pic" />
+    <img height="200" width="200" src="/purus-profile/abdullah.webp" alt="Puru Vijay Profile pic" />
 
     <br />
 
-    <h1>Hi, I'm Puru</h1>
+    <h1>Hi, I'm Abdullah</h1>
 
     <h2>
-      I'm the creator of macOS Web, which you're on right now
+      I'm the creator of macOS Web v2.0, which you're on right now
       <img src="/emojis/wink.png" alt="Wink emoji" class="emoji" />
     </h2>
 
